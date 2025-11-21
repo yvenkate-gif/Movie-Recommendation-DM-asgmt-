@@ -4,6 +4,7 @@ Project Description
 
 This project implements three different movie recommendation algorithms using the MovieLens 100K dataset to compare various approaches for suggesting relevant movies to users.
 
+
 Algorithms Implemented
 
 -- User-Based Collaborative Filtering - Finds similar users and recommends movies they enjoyed
@@ -11,6 +12,7 @@ Algorithms Implemented
 --Item-Based Collaborative Filtering - Recommends movies similar to ones already liked based on rating patterns
 
 --Graph-Based Random Walks (Pixie-inspired) - Explores user-movie network connections through random walks
+
 
 File Overview
 
@@ -21,6 +23,7 @@ File Overview
 --Pixie Explanation.pdf - Detailed explanation of the graph-based random walk algorithm
 
 --Project_Report.pdf - Comprehensive project report with methodology, results, and analysis
+
 
 Results Summary
 
