@@ -1,11 +1,11 @@
 # Movie-Recommendation-DM-asgmt-
 
-Project Description
+#Project Description
 
 This project implements three different movie recommendation algorithms using the MovieLens 100K dataset to compare various approaches for suggesting relevant movies to users.
 
 
-Algorithms Implemented
+#Algorithms Implemented
 
 -- User-Based Collaborative Filtering - Finds similar users and recommends movies they enjoyed
 
@@ -14,7 +14,7 @@ Algorithms Implemented
 --Graph-Based Random Walks (Pixie-inspired) - Explores user-movie network connections through random walks
 
 
-File Overview
+#File Overview
 
 --Movie_Recommendation.ipynb - Complete Jupyter notebook with data loading, preprocessing, and all three recommendation algorithms
 
@@ -25,10 +25,12 @@ File Overview
 --Project_Report.pdf - Comprehensive project report with methodology, results, and analysis
 
 
-Results Summary
+#Results Summary
 
 --User-Based Filtering: Perfect accuracy - matched expected results exactly for test cases
+
 --Item-Based Filtering: Strong semantic relevance - found movies with similar themes and genres
+
 --Graph-Based Random Walks: Good for discovery - provided diverse and exploratory recommendations
 
 --All methods produced valid, meaningful movie suggestions that demonstrate different recommendation strategies
