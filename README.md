@@ -33,4 +33,5 @@ This project implements three different movie recommendation algorithms using th
 
 --Graph-Based Random Walks: Good for discovery - provided diverse and exploratory recommendations
 
+
 --All methods produced valid, meaningful movie suggestions that demonstrate different recommendation strategies
